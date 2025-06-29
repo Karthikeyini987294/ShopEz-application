@@ -26,7 +26,7 @@
 ### 1. Clone the repository
 ```bash
 git clone https://github.com/yourusername/mern-ecommerce.git
-cd mern-ecommerce
+cd SHOPEZ
 
 
 2. Install dependencies
