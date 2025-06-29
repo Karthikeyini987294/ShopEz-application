@@ -40,7 +40,7 @@ npm install
 cd server
 node models/seed.mjs
 
-5. Run the application
+5. Run the application (index.js and seed.mjs database name should be same)
 Start Backend:
 cd server
 npm start
