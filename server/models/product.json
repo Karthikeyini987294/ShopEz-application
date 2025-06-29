@@ -1,0 +1,1296 @@
+[
+  {
+  "title": "Black tshirt",
+  "description": "classic black cotton tshirt: soft,breathable, and versatile for everday wear",
+  "mainImg": "https://images.unsplash.com/photo-1618517351616-38fb9c5210c6?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8YmxhY2slMjBzaGlydHxlbnwwfHwwfHx8Mg%3D%3D",
+  "carousel": [
+    "https://images.unsplash.com/photo-1502389614483-e475fc34407e?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8YmxhY2slMjBzaGlydHxlbnwwfHwwfHx8Mg%3D%3D",
+    "https://images.unsplash.com/photo-1618453292459-53424b66bb6a?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8YmxhY2slMjBzaGlydHxlbnwwfHwwfHx8Mg%3D%3D"
+  ],
+  "sizes": [
+    "S",
+    "M",
+    "L",
+    "XL"
+  ],
+  "category": "Fashion",
+  "gender": "Men",
+  "price": 500,
+  "discount": 10,
+  "__v": 0
+  },
+  {
+  "title": "yellow and black shirt",
+  "description": "it is soft and comfortable to wear",
+  "mainImg": "https://images.unsplash.com/photo-1607345366928-199ea26cfe3e?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fHNoaXJ0fGVufDB8fDB8fHwy",
+  "carousel": [
+    "https://images.unsplash.com/photo-1567301847083-e2cdfe9a5cf7?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Njl8fHllbGxvdyUyMGJsYWNrJTIwY2hlY2slMjBzaGlydHxlbnwwfHwwfHx8Mg%3D%3",
+    "https://images.unsplash.com/photo-1590711981303-fc709727ca02?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8eWVsbG93JTIwc2hpcnR8ZW58MHx8MHx8fDI%3D"
+  ],
+  "sizes": [
+    "S",
+    "M",
+    "L",
+    "XL"
+  ],
+  "category": "Fashion",
+  "gender": "Unisex",
+  "price": 2000,
+  "discount": 10,
+  "__v": 0
+  },
+  {
+  "title": "White Tshirt ",
+  "description": "it is soft and  we can very daily",
+  "mainImg": "https://images.unsplash.com/photo-1527719327859-c6ce80353573?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjR8fHdoaXRlJTIwdHNoaXJ0fGVufDB8fDB8fHwy",
+  "carousel": [
+    "https://images.unsplash.com/photo-1652794118888-4e1c707260dd?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fHdoaXRlJTIwdHNoaXJ0fGVufDB8fDB8fHwy",
+    "https://images.unsplash.com/photo-1620799139834-6b8f844fbe61?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fHdoaXRlJTIwdHNoaXJ0fGVufDB8fDB8fHwy"
+  ],
+  "sizes": [
+    "S",
+    "M",
+    "L",
+    "XL"
+  ],
+  "category": "Fashion",
+  "gender": "Men",
+  "price": 600,
+  "discount": 10,
+  "__v": 0
+  },
+  {
+  "title": "white Frock ",
+  "description": "partywear",
+  "mainImg": "https://images.unsplash.com/photo-1594816935907-1e8f03b98437?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8d2VkZGluZyUyMGdvd258ZW58MHx8MHx8fDI%3D",
+  "carousel": [
+    "https://images.unsplash.com/photo-1619693645061-031b0585ebd7?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8d2VkZGluZyUyMGdvd258ZW58MHx8MHx8fDI%3D",
+    "https://images.unsplash.com/photo-1594552072238-b8a33785b261?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8d2VkZGluZyUyMGdvd258ZW58MHx8MHx8fDI%3Dy"
+  ],
+  "sizes": [
+    "S",
+    "M",
+    "L",
+    "XL"
+  ],
+  "category": "Fashion",
+  "gender": "Women",
+  "price": 6000,
+  "discount": 10,
+  "__v": 0
+  },
+  {
+  "title": "Hoodie ",
+  "description": "comfortable and smooth",
+  "mainImg": "https://images.unsplash.com/photo-1631467697445-6c35d744187c?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8dG9wcyUyMGZvciUyMHdvbWVufGVufDB8fDB8fHwy",
+  "carousel": [
+    "https://images.unsplash.com/photo-1631467697300-7ce247bab5fb?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8dG9wcyUyMGZvciUyMHdvbWVufGVufDB8fDB8fHwy",
+    "https://images.unsplash.com/photo-1631467697333-44a2587f56f4?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8dG9wcyUyMGZvciUyMHdvbWVufGVufDB8fDB8fHwy"
+  ],
+  "sizes": [
+    "S",
+    "M",
+    "L",
+    "XL"
+  ],
+  "category": "Fashion",
+  "gender": "Women",
+  "price": 800,
+  "discount": 10,
+  "__v": 0
+  },
+  {
+  "title": "White tshirt ",
+  "description": "comfortable and soft",
+  "mainImg": "https://images.unsplash.com/photo-1652794118671-c56680d1a8f7?q=80&w=1025&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "carousel": [
+    "https://images.unsplash.com/photo-1652794121301-63e284fb31c0?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDd8fHdoaXRlJTIwdHNoaXJ0cyUyMGZvciUyMHdvbWVufGVufDB8fDB8fHwy",
+    "https://images.unsplash.com/photo-1652794120045-14f333a30b4d?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDV8fHdoaXRlJTIwdHNoaXJ0cyUyMGZvciUyMHdvbWVufGVufDB8fDB8fHwy"
+  ],
+  "sizes": [
+    "S",
+    "M",
+    "L",
+    "XL"
+  ],
+  "category": "Fashion",
+  "gender": "Women",
+  "price": 800,
+  "discount": 10,
+  "__v": 0
+  },
+  {
+  "title": "Nike shoes ",
+  "description": "step into comfort and icnoic style designed with performance,everdaywear and  lightweight",
+  "mainImg": "https://images.unsplash.com/photo-1710472171218-da46dce3faf9?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8YmxhY2slMjBuaWtlJTIwc2hvZXN8ZW58MHx8MHx8fDI%3D",
+  "carousel": [
+    "https://images.unsplash.com/photo-1710317958943-0f23b153609d?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8YmxhY2slMjBuaWtlJTIwc2hvZXN8ZW58MHx8MHx8fDI%3D",
+    "https://images.unsplash.com/photo-1710317958830-0553afbfc9a2?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8YmxhY2slMjBuaWtlJTIwc2hvZXN8ZW58MHx8MHx8fDI%3D"
+  ],
+  "sizes": [
+    "34",
+    "36",
+    "38",
+    "40"
+  ],
+  "category": "Fashion",
+  "gender": "Men",
+  "price": 4000,
+  "discount": 10,
+  "__v": 0
+  },
+  {
+  "title": "High Heels",
+  "description": "Elevate your style—literally and figuratively—with these stunning high heels.",
+  "mainImg": "https://images.unsplash.com/photo-1747852631328-0f04fdd70005?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8c2hvZXMlMjBmb3IlMjB3b21lbnxlbnwwfHwwfHx8Mg%3D%3D",
+  "carousel": [
+    "https://images.unsplash.com/photo-1747852631270-05e03af4711b?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8c2hvZXMlMjBmb3IlMjB3b21lbnxlbnwwfHwwfHx8Mg%3D%3D",
+    "https://images.unsplash.com/photo-1747852631328-0f04fdd70005?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8c2hvZXMlMjBmb3IlMjB3b21lbnxlbnwwfHwwfHx8Mg%3D%3D"
+  ],
+  "sizes": [
+    "32",
+    "34",
+    "36",
+    "41L"
+  ],
+  "category": "Fashion",
+  "gender": "Women",
+  "price": 1300,
+  "discount": 10,
+  "__v": 0
+  },
+  {
+  "title": "Refrigerator",
+  "description": "Preserving food and drinks.Slowing bacterial growth.Storing medicines or temperature-sensitive items",
+  "mainImg": "https://images.unsplash.com/photo-1721613877687-c9099b698faa?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fHJlZnJpZ2VyYXRvcnxlbnwwfHwwfHx8Mg%3D%3D",
+  "carousel": [
+    "https://images.unsplash.com/photo-1643356472833-5b1f2cd4ca3c?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fHJlZnJpZ2VyYXRvcnxlbnwwfHwwfHx8Mg%3D%3D",
+    "https://images.unsplash.com/photo-1585338667391-5b279a0c5eb8?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fHJlZnJpZ2VyYXRvcnxlbnwwfHwwfHx8Mg%3D%3D"
+  ],
+  "sizes": [],
+  "category": "Electronics",
+  "price": 35000,
+  "discount": 5,
+  "__v": 0
+  },
+  {
+  "title": "Iphone 16",
+  "description": "Experience the future in your hands with the iPhone 16, Apple’s most advanced smartphone yet. With a sleek titanium design, edge-to-edge Ultra Retina XDR display, and enhanced AI-driven performance, the iPhone 16 redefines what a smartphone can do.",
+  "mainImg": "https://images.unsplash.com/photo-1726587912121-ea21fcc57ff8?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8aXBob25lJTIwMTZ8ZW58MHx8MHx8fDI%3D",
+  "carousel": [
+    "https://images.unsplash.com/photo-1727093493751-73e913a3dd82?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8aXBob25lJTIwMTZ8ZW58MHx8MHx8fDI%3D",
+    "https://images.unsplash.com/photo-1727093493838-5a5f2da03b65?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8aXBob25lJTIwMTZ8ZW58MHx8MHx8fDI%3D"
+  ],
+  "sizes": [],
+  "category": "mobiles",
+  "price": 125000,
+  "discount": 3,
+  "__v": 0
+  },
+  {
+  "title": "Realme 11pro plus",
+  "description": "Realme 11 Pro+ is a stylish and powerful smartphone featuring a curved 6.7-inch AMOLED display with a 120Hz refresh rate. It is powered by the MediaTek Dimensity 7050 processor and comes with up to 12GB of RAM and 512GB storage. The highlight is its 200MP main camera, offering stunning photo quality, along with a 5000mAh battery and 100W fast charging. It runs on Realme UI 4.0 based on Android 13",
+  "mainImg": "https://images.unsplash.com/photo-1688986757418-f7b6e18a3407?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8cmVhbG1lfGVufDB8fDB8fHwy",
+  "carousel": [
+    "https://images.unsplash.com/photo-1688986767967-1f229d118e16?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fHJlYWxtZXxlbnwwfHwwfHx8Mg%3D%3D",
+    "https://images.unsplash.com/photo-1688986774591-246a1e72af18?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8cmVhbG1lfGVufDB8fDB8fHwy"
+  ],
+  "sizes": [],
+  "category": "mobiles",
+  "price": 55000,
+  "discount": 3,
+  "__v": 0
+  },
+  {
+  "title": "Sony Headphones",
+  "description": "Industry-leading ANC (Active Noise Cancellation) powered by dual processors (QN1 & V1),Superb audio quality with support for LDAC, Hi-Res Audio and Multipoint connectivity (connect to two devices at once) Up to 30 hours battery life Lightweight and comfortable for long wearTouch controls, voice assistant support (Google Assistant, Alexa)",
+  "mainImg": "https://images.unsplash.com/photo-1583394838336-acd977736f90?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8aGVhZHBob25lc3xlbnwwfHwwfHx8Mg%3D%3D",
+  "carousel": [
+    "https://images.unsplash.com/photo-1583305727488-61f82c7eae4b?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8aGVhZHBob25lc3xlbnwwfHwwfHx8Mg%3D%3D",
+    "https://images.unsplash.com/photo-1585298723682-7115561c51b7?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGhlYWRwaG9uZXN8ZW58MHx8MHx8fDI%3D"
+  ],
+  "sizes": [],
+  "category": "Electronics",
+  "price": 17999,
+  "discount": 3,
+  "__v": 0
+  },
+  {
+  "title": "Dell laptop",
+  "description": "Dell XPS 13: A premium ultra-portable laptop with a stunning edge-to-edge display, ideal for professionals and creatives. Built with high-performance Intel Core processors in a sleek, lightweight design.",
+  "mainImg": "https://images.unsplash.com/photo-1629131726692-1accd0c53ce0?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8bGFwdG9wc3xlbnwwfHwwfHx8Mg%3D%3D",
+  "carousel": [
+    "https://images.unsplash.com/photo-1651169610763-fddf392fadb4?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8bGFwdG9wc3xlbnwwfHwwfHx8Mg%3D%3D",
+    "https://images.unsplash.com/photo-1542393545-10f5cde2c810?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGxhcHRvcHN8ZW58MHx8MHx8fDI%3D"
+  ],
+  "sizes": [],
+  "category": "Electronics",
+  "price": 65000,
+  "discount": 10,
+  "__v": 0
+  },
+  {
+  "title": "Washing machine",
+  "description": "Front Load Washing Machine: A high-efficiency washer that loads laundry from the front, using less water and energy while offering gentle yet powerful cleaning. Known for quieter operation, faster spin speeds, and space-saving stackable designs.",
+  "mainImg": "https://images.unsplash.com/photo-1626806787461-102c1bfaaea1?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8d2FzaGluZyUyMG1hY2hpbmV8ZW58MHx8MHx8fDI%3D",
+  "carousel": [
+    "https://images.unsplash.com/photo-1709477542151-b98344ef6253?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8d2FzaGluZyUyMG1hY2hpbmV8ZW58MHx8MHx8fDI%3D",
+    "https://images.unsplash.com/photo-1674471361340-273b7b7da2e2?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fHdhc2hpbmclMjBtYWNoaW5lfGVufDB8fDB8fHwy"
+  ],
+  "sizes": [],
+  "category": "Electronics",
+  "price": 29000,
+  "discount": 4,
+  "__v": 0
+  },
+  {
+  "title": "Hair Dryer",
+  "description": "Hair Dryer: A hair dryer is an electric device that blows hot or cool air to dry and style hair quickly. It typically features adjustable heat and speed settings, and often includes attachments like diffusers or concentrators for specific styling needs. Modern models use technologies like ionic, ceramic, or tourmaline to reduce frizz, protect hair from heat damage, and enhance shine.",
+  "mainImg": "https://images.unsplash.com/photo-1620331317312-74b88bf40907?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8aGFpciUyMGRyeWVyfGVufDB8fDB8fHwy",
+  "carousel": [
+    "https://images.unsplash.com/photo-1620331314222-c1cf9a9dbba4?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fGhhaXIlMjBkcnllcnxlbnwwfHwwfHx8Mg%3D%3D",
+    "https://images.unsplash.com/photo-1620331317312-74b88bf40907?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8aGFpciUyMGRyeWVyfGVufDB8fDB8fHwy"
+  ],
+  "sizes": [],
+  "category": "Electronics",
+  "price": 25000,
+  "discount": 4,
+  "__v": 0
+  },
+  {
+  "title": "Smart watch",
+  "description": "Smartwatch: A smartwatch is a wearable digital device that combines traditional timekeeping with advanced features like fitness tracking, heart rate monitoring, GPS, and smartphone notifications. Many models support Bluetooth calling, music control, sleep analysis, and even apps—making them a compact, wrist-based extension of your smartphone and health assistant",
+  "mainImg": "https://images.unsplash.com/photo-1546868871-7041f2a55e12?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fHNtYXJ0JTIwd2F0Y2hlc3xlbnwwfHwwfHx8Mg%3D%3D",
+  "carousel": [
+    "https://images.unsplash.com/photo-1541351991055-b55135fea4bf?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8c21hcnQlMjB3YXRjaGVzfGVufDB8fDB8fHwy",
+    "https://images.unsplash.com/photo-1546868871-7041f2a55e12?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fHNtYXJ0JTIwd2F0Y2hlc3xlbnwwfHwwfHx8Mg%3D%3D"
+  ],
+  "sizes": [],
+  "category": "Electronics",
+  "price": 15000,
+  "discount": 2,
+  "__v": 0
+  },
+  {
+  "title": "Sony Speakers",
+  "description": "frequency Response: A wide range (e.g., 20Hz–20kHz) ensures better lows, mids, and highs.Bass & Treble Control: Adjustable settings for deeper bass or sharper highs.Driver Size & Type: Larger or multiple drivers often mean richer, more detailed sound.",
+  "mainImg": "https://images.unsplash.com/photo-1585605109191-03cc36051fcb?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8c3BlYWtlcnN8ZW58MHx8MHx8fDI%3D",
+  "carousel": [
+    "https://images.unsplash.com/photo-1531104985437-603d6490e6d4?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8c3BlYWtlcnN8ZW58MHx8MHx8fDI%3D",
+    "https://images.unsplash.com/photo-1608538770329-65941f62f9f8?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8c3BlYWtlcnN8ZW58MHx8MHx8fDI%3D"
+  ],
+  "sizes": [],
+  "category": "Electronics",
+  "price": 8000,
+  "discount": 2,
+  "__v": 0
+  },
+  {
+  "title": "Reebok master blaster bat",
+  "description": "The Reebok Master Blaster Kashmir Willow Bat is a durable and lightweight cricket bat designed for beginners and intermediate players. Made from quality Kashmir willow, it features thick edges, a strong handle, and a large sweet spot for powerful strokes.",
+  "mainImg": "https://images.unsplash.com/photo-1593766821405-f605e0f9535f?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fGNyaWNrZXQlMjBiYXRzfGVufDB8fDB8fHwy",
+  "carousel": [
+    "https://images.unsplash.com/photo-1646282814550-f521d9b57a59?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjF8fGNyaWNrZXQlMjBiYXRzfGVufDB8fDB8fHwy",
+    "https://images.unsplash.com/photo-1593766821405-f605e0f9535f?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fGNyaWNrZXQlMjBiYXRzfGVufDB8fDB8fHwy"
+  ],
+  "sizes": [],
+  "category": "Sports-Equipment",
+  "price": 3500,
+  "discount": 2,
+  "__v": 0
+  },
+  {
+  "title": "Premium wireless Headphones",
+  "description": "Experience superior sound quality with our premium wireless headphones featuring active noise cancellation and 30-hour battery life",
+  "mainImg": "https://images.pexels.com/photos/3394650/pexels-photo-3394650.jpeg?auto=compress&cs=tinysrgb&w=500",
+  "carousel": [
+    "https://images.pexels.com/photos/3394650/pexels-photo-3394650.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "https://images.pexels.com/photos/1649771/pexels-photo-1649771.jpeg?auto=compress&cs=tinysrgb&w=800"
+  ],
+  "sizes": [],
+  "category": "Electronics",
+  "price": 1500,
+  "discount": 2,
+  "__v": 0
+  },
+  {
+  "title": "Wireless Charging Pad",
+  "description": "Fast wireless charging pad compatible with all Qi-enabled devices. Sleek design with LED indicator Fast charging,Non-slip surface",
+  "mainImg": "https://images.pexels.com/photos/4526406/pexels-photo-4526406.jpeg?auto=compress&cs=tinysrgb&w=500",
+  "carousel": [
+    "https://images.pexels.com/photos/4526406/pexels-photo-4526406.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "https://images.pexels.com/photos/4526406/pexels-photo-4526406.jpeg?auto=compress&cs=tinysrgb&w=800"
+  ],
+  "sizes": [],
+  "category": "Electronics",
+  "price": 1000,
+  "discount": 2,
+  "__v": 0
+  },
+  {
+  "title": "Sony camera",
+  "description": "Portable Bluetooth speaker with 360-degree sound, waterproof design, and 20-hour battery life 360-degree sound,Waterproof,20-hour battery,Portable design,Voice assistant",
+  "mainImg": "https://images.pexels.com/photos/1264210/pexels-photo-1264210.jpeg?auto=compress&cs=tinysrgb&w=500",
+  "carousel": [
+    "https://images.pexels.com/photos/1264210/pexels-photo-1264210.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "https://images.pexels.com/photos/1264210/pexels-photo-1264210.jpeg?auto=compress&cs=tinysrgb&w=500"
+  ],
+  "sizes": [],
+  "category": "Electronics",
+  "price": 9500,
+  "discount": 2,
+  "__v": 0
+  },
+  {
+  "title": "Laptop 15.6 Intel i7",
+  "description": "High-performance laptop with Intel i7 processor ,16GB RAM, and 512GB SSD for professional use Intel i7 processor,  16GB RAM, 512GB SSD,16-inch Full HD,Backlit keyboard",
+  "mainImg": "https://images.pexels.com/photos/18105/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=500",
+  "carousel": [
+    "https://images.pexels.com/photos/18105/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=800",
+    "https://images.pexels.com/photos/18105/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=500"
+  ],
+  "sizes": [],
+  "category": "Electronics",
+  "price": 42000,
+  "discount": 3,
+  "__v": 0
+  },
+  {
+  "title": "Digital Camera DSLR",
+  "description": "Professional DSLR camera with high-resolution sensor and advanced autofocus system, 24.2MP sensor, 4K video recording,WiFi connectivity,Dual card slots, Weather sealing",
+  "mainImg": "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?auto=compress&cs=tinysrgb&w=500",
+  "carousel": [
+    "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?auto=compress&cs=tinysrgb&w=500"
+  ],
+  "sizes": [],
+  "category": "Electronics",
+  "price": 32000,
+  "discount": 3,
+  "__v": 0
+  },
+  {
+  "title": "smart watch series 8",
+  "description": "Advanced smartwatch with health monitoring, GPS, and cellular connectivity",
+  "mainImg": "https://images.pexels.com/photos/393047/pexels-photo-393047.jpeg?auto=compress&cs=tinysrgb&w=500",
+  "carousel": [
+    "https://images.pexels.com/photos/393047/pexels-photo-393047.jpeg?auto=compress&cs=tinysrgb&w=500",
+    "https://images.pexels.com/photos/393047/pexels-photo-393047.jpeg?auto=compress&cs=tinysrgb&w=800"
+  ],
+  "sizes": [],
+  "category": "Electronics",
+  "price": 1500,
+  "discount": 3,
+  "__v": 0
+  },
+  {
+  "title": "Gaming Console Pro",
+  "description": "Next-generation gaming console with 4K gaming and  ultra-fast loading times 4K gaming,Ultra-fast SSD,Ray tracing,Backward compatibility,  Wireless controller",
+  "mainImg": "https://images.pexels.com/photos/442576/pexels-photo-442576.jpeg?auto=compress&cs=tinysrgb&w=500",
+  "carousel": [
+    "https://images.pexels.com/photos/442576/pexels-photo-442576.jpeg?auto=compress&cs=tinysrgb&w=500",
+    "https://images.pexels.com/photos/442576/pexels-photo-442576.jpeg?auto=compress&cs=tinysrgb&w=500"
+  ],
+  "sizes": [],
+  "category": "Electronics",
+  "price": 1000,
+  "discount": 1,
+  "__v": 0
+  },
+  {
+  "title": "Yoga Mat Premium",
+  "description": "Premium yoga mat with superior grip and cushioning for all yoga practices",
+  "mainImg": "https://images.pexels.com/photos/3822864/pexels-photo-3822864.jpeg?auto=compress&cs=tinysrgb&w=800",
+  "carousel": [
+    "https://images.pexels.com/photos/3822864/pexels-photo-3822864.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "https://images.pexels.com/photos/3822864/pexels-photo-3822864.jpeg?auto=compress&cs=tinysrgb&w=800"
+  ],
+  "sizes": [],
+  "category": "Sports-Equipment",
+  "price": 200,
+  "discount": 2,
+  "__v": 0
+  },
+  {
+  "title": "Apples",
+  "description": "Crisp, juicy, and naturally sweet — apples are a delicious and healthy fruit perfect for snacking, baking, or adding to salads. Rich in fiber and vitamins, they’re a great choice for a nutritious lifestyle.",
+  "mainImg": "https://images.unsplash.com/photo-1560806887-1e4cd0b6cbd6?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8YXBwbGVzfGVufDB8fDB8fHww",
+  "carousel": [
+    "https://images.unsplash.com/photo-1567306226416-28f0efdc88ce?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fGFwcGxlc3xlbnwwfHwwfHx8MA%3D%3D",
+    "https://images.unsplash.com/photo-1567306226416-28f0efdc88ce?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fGFwcGxlc3xlbnwwfHwwfHx8MA%3D%3D"
+  ],
+  "sizes": [],
+  "category": "Groceries",
+  "price": 200,
+  "discount": 2,
+  "__v": 0
+  },
+  {
+  "title": "Banana",
+  "description": "Bananas are a naturally sweet and creamy fruit, rich in potassium, vitamin C, and dietary fiber. They are perfect for a quick snack, smoothies, or baking. Known for boosting energy and supporting digestion, bananas are a healthy addition to any diet",
+  "mainImg": "https://images.unsplash.com/photo-1571771894821-ce9b6c11b08e?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8YmFuYW5hfGVufDB8fDB8fHwy",
+  "carousel": [
+    "https://images.unsplash.com/photo-1603052875302-d376b7c0638a?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fGJhbmFuYXxlbnwwfHwwfHx8Mg%3D%3D",
+    "https://images.unsplash.com/photo-1571771894821-ce9b6c11b08e?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8YmFuYW5hfGVufDB8fDB8fHwy"
+  ],
+  "sizes": [],
+  "category": "Groceries",
+  "price": 120,
+  "discount": 2,
+  "__v": 0
+  },
+  {
+  "title": "Tomatoes",
+  "description": "Tomatoes are juicy, red fruits packed with vitamins A and C, antioxidants, and lycopene. They add fresh flavor to salads, sandwiches, curries, and sauces. Perfect for cooking or eating raw, tomatoes are a staple in every kitchen.",
+  "mainImg": "https://images.unsplash.com/photo-1618807543816-96d6df00de29?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fFRvbWF0b3N8ZW58MHx8MHx8fDI%3D",
+  "carousel": [
+    "https://images.unsplash.com/photo-1594057687713-5fd14eed1c17?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8VG9tYXRvc3xlbnwwfHwwfHx8Mg%3D%3D",
+    "https://images.unsplash.com/photo-1618807543816-96d6df00de29?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fFRvbWF0b3N8ZW58MHx8MHx8fDI%3Dy"
+  ],
+  "sizes": [],
+  "category": "Groceries",
+  "price": 80,
+  "discount": 2,
+  "__v": 0
+  },
+  {
+  "title": "Onions",
+  "description": "Onions are versatile vegetables with a strong, savory flavor. Commonly used in cooking, they add depth to soups, curries, stir-fries, and salads. Rich in antioxidants and nutrients, onions are a kitchen essential.",
+  "mainImg": "https://images.unsplash.com/photo-1618512496248-a07fe83aa8cb?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8b25pb25zfGVufDB8fDB8fHwy",
+  "carousel": [
+    "https://images.unsplash.com/photo-1467019972079-a273e1bc9173?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8b25pb25zfGVufDB8fDB8fHwy",
+    "https://images.unsplash.com/photo-1618512496248-a07fe83aa8cb?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8b25pb25zfGVufDB8fDB8fHwy"
+  ],
+  "sizes": [],
+  "category": "Groceries",
+  "price": 100,
+  "discount": 2,
+  "__v": 0
+  },
+  {
+  "title": "Carrot",
+  "description": "Carrots are crunchy, sweet root vegetables packed with vitamins, especially Vitamin A. They are great for snacking, cooking, and adding color and nutrition to salads, soups, and stews.",
+  "mainImg": "https://images.unsplash.com/photo-1598170845058-32b9d6a5da37?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Y2Fycm90fGVufDB8fDB8fHwy",
+  "carousel": [
+    "https://images.unsplash.com/photo-1582515073490-39981397c445?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8Y2Fycm90fGVufDB8fDB8fHwy",
+    "https://images.unsplash.com/photo-1598170845058-32b9d6a5da37?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Y2Fycm90fGVufDB8fDB8fHwy"
+  ],
+  "sizes": [],
+  "category": "Groceries",
+  "price": 60,
+  "discount": 2,
+  "__v": 0
+  },
+  {
+  "title": "Potatoes",
+  "description": "Potatoes are versatile, starchy vegetables enjoyed worldwide. They can be boiled, baked, mashed, or fried, making them a staple ingredient in many delicious dishes..",
+  "mainImg": "https://images.unsplash.com/photo-1590165482129-1b8b27698780?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fHBvdGF0b2VzfGVufDB8fDB8fHwy",
+  "carousel": [
+    "https://images.unsplash.com/photo-1566055803687-0665ef48df90?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjB8fHBvdGF0b2VzfGVufDB8fDB8fHwy",
+    "https://images.unsplash.com/photo-1590165482129-1b8b27698780?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fHBvdGF0b2VzfGVufDB8fDB8fHwy"
+  ],
+  "sizes": [],
+  "category": "Groceries",
+  "price": 50,
+  "discount": 2,
+  "__v": 0
+  },
+  {
+  "title": "Eggs",
+  "description": ".High in protein and nutrients Naturally fresh and hygienically packedIdeal for breakfast, baking, and cooking00% vegetarian feed hens – no antibioticsCarefully graded and cleaned",
+  "mainImg": "https://images.unsplash.com/photo-1506976785307-8732e854ad03?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8ZWdnc3xlbnwwfHwwfHx8Mg%3D%3D",
+  "carousel": [
+    "https://images.unsplash.com/photo-1639194335563-d56b83f0060c?q=80&w=627&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "https://images.unsplash.com/photo-1506976785307-8732e854ad03?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8ZWdnc3xlbnwwfHwwfHx8Mg%3D%3D"
+  ],
+  "sizes": [],
+  "category": "Groceries",
+  "price": 8,
+  "discount": 2,
+  "__v": 0
+  },
+  {
+  "title": "Basmati Rice",
+  "description": "Naturally aromatic and aged for flavor Extra-long grains that fluff up perfectly Ideal for biryani, pulav friedrice, or steamed rice 100% vegetarian and gluten-freePacked hygienically to retain freshness",
+  "mainImg": "https://images.unsplash.com/photo-1723475158232-819e29803f4d?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fGJhc21hdGklMjByaWNlfGVufDB8fDB8fHwy",
+  "carousel": [
+    "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmFzbWF0aSUyMHJpY2V8ZW58MHx8MHx8fDI%3D",
+    "https://images.unsplash.com/photo-1723475158232-819e29803f4d?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fGJhc21hdGklMjByaWNlfGVufDB8fDB8fHwy"
+  ],
+  "sizes": [],
+  "category": "Groceries",
+  "price": 150,
+  "discount": 2,
+  "__v": 0
+  },
+  {
+  "title": "Refined Flour(Maida)",
+  "description": "Our Premium Refined Flour (Maida) is finely milled from high-quality wheat to produce a smooth, soft flour ideal for baking and cooking. With its silky texture and superior absorbency, it's perfect for making fluffy breads, cakes, pastries, naans, bhaturas, and other delicious treats. Hygienically processed and packed to retain purity and freshness.",
+  "mainImg": "https://images.unsplash.com/photo-1586137712370-9b450509c587?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fHJlZmluZWQlMjBmbG91cnxlbnwwfHwwfHx8Mg%3D%3D",
+  "carousel": [
+    "https://images.unsplash.com/photo-1545587195-a625d872ca82?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fHJlZmluZWQlMjBmbG91cnxlbnwwfHwwfHx8Mg%3D%3D",
+    "https://images.unsplash.com/photo-1586137712370-9b450509c587?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fHJlZmluZWQlMjBmbG91cnxlbnwwfHwwfHx8Mg%3D%3D"
+  ],
+  "sizes": [],
+  "category": "Groceries",
+  "price": 30,
+  "discount": 2,
+  "__v": 0
+  },
+  {
+  "title": "Premium wireless Headphones",
+  "description": "Experience superior sound quality with our premium wireless headphones featuring active noise cancellation and 30-hour battery life",
+  "mainImg": "https://images.pexels.com/photos/3394650/pexels-photo-3394650.jpeg?auto=compress&cs=tinysrgb&w=500",
+  "carousel": [
+    "https://images.pexels.com/photos/3394650/pexels-photo-3394650.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "https://images.pexels.com/photos/1649771/pexels-photo-1649771.jpeg?auto=compress&cs=tinysrgb&w=800"
+  ],
+  "sizes": [],
+  "category": "Electronics",
+  "price": 1500,
+  "discount": 2,
+  "__v": 0
+  },
+  {
+  "title": "Wireless Charging Pad",
+  "description": "Fast wireless charging pad compatible with all Qi-enabled devices. Sleek design with LED indicator Fast charging,Non-slip surface",
+  "mainImg": "https://images.pexels.com/photos/4526406/pexels-photo-4526406.jpeg?auto=compress&cs=tinysrgb&w=500",
+  "carousel": [
+    "https://images.pexels.com/photos/4526406/pexels-photo-4526406.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "https://images.pexels.com/photos/4526406/pexels-photo-4526406.jpeg?auto=compress&cs=tinysrgb&w=800"
+  ],
+  "sizes": [],
+  "category": "Electronics",
+  "price": 1000,
+  "discount": 2,
+  "__v": 0
+  },
+  {
+  "title": "Sony camera",
+  "description": "Portable Bluetooth speaker with 360-degree sound, waterproof design, and 20-hour battery life 360-degree sound,Waterproof,20-hour battery,Portable design,Voice assistant",
+  "mainImg": "https://images.pexels.com/photos/1264210/pexels-photo-1264210.jpeg?auto=compress&cs=tinysrgb&w=500",
+  "carousel": [
+    "https://images.pexels.com/photos/1264210/pexels-photo-1264210.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "https://images.pexels.com/photos/1264210/pexels-photo-1264210.jpeg?auto=compress&cs=tinysrgb&w=500"
+  ],
+  "sizes": [],
+  "category": "Electronics",
+  "price": 9500,
+  "discount": 2,
+  "__v": 0
+  },
+  {
+  "title": "Laptop 15.6 Intel i7",
+  "description": "High-performance laptop with Intel i7 processor ,16GB RAM, and 512GB SSD for professional use Intel i7 processor,  16GB RAM, 512GB SSD,16-inch Full HD,Backlit keyboard",
+  "mainImg": "https://images.pexels.com/photos/18105/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=500",
+  "carousel": [
+    "https://images.pexels.com/photos/18105/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=800",
+    "https://images.pexels.com/photos/18105/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=500"
+  ],
+  "sizes": [],
+  "category": "Electronics",
+  "price": 42000,
+  "discount": 3,
+  "__v": 0
+  },
+  {
+  "title": "Digital Camera DSLR",
+  "description": "Professional DSLR camera with high-resolution sensor and advanced autofocus system, 24.2MP sensor, 4K video recording,WiFi connectivity,Dual card slots, Weather sealing",
+  "mainImg": "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?auto=compress&cs=tinysrgb&w=500",
+  "carousel": [
+    "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?auto=compress&cs=tinysrgb&w=500"
+  ],
+  "sizes": [],
+  "category": "Electronics",
+  "price": 32000,
+  "discount": 3,
+  "__v": 0
+  },
+  {
+  "title": "Gaming Console Pro",
+  "description": "Next-generation gaming console with 4K gaming and  ultra-fast loading times 4K gaming,Ultra-fast SSD,Ray tracing,Backward compatibility,  Wireless controller",
+  "mainImg": "https://images.pexels.com/photos/442576/pexels-photo-442576.jpeg?auto=compress&cs=tinysrgb&w=500",
+  "carousel": [
+    "https://images.pexels.com/photos/442576/pexels-photo-442576.jpeg?auto=compress&cs=tinysrgb&w=500",
+    "https://images.pexels.com/photos/442576/pexels-photo-442576.jpeg?auto=compress&cs=tinysrgb&w=500"
+  ],
+  "sizes": [],
+  "category": "Electronics",
+  "price": 1000,
+  "discount": 1,
+  "__v": 0
+  },
+  {
+  "title": "Wheat flour",
+  "description": "eat flour is a finely ground powder made from wheat grains. Its a basic ingredient used in baking breads, cakes, chapatis, and many other everyday dishes.",
+  "mainImg": "https://images.unsplash.com/photo-1731082300550-8093311708ef?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8d2hlYXQlMjBmbG91cnxlbnwwfHwwfHx8Mg%3D%3D",
+  "carousel": [
+    "https://images.unsplash.com/photo-1610725664285-7c57e6eeac3f?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8d2hlYXQlMjBmbG91cnxlbnwwfHwwfHx8Mg%3D%3D",
+    "https://images.unsplash.com/photo-1731082300550-8093311708ef?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8d2hlYXQlMjBmbG91cnxlbnwwfHwwfHx8Mg%3D%3D"
+  ],
+  "sizes": [],
+  "category": "Groceries",
+  "price": 78,
+  "discount": 2,
+  "__v": 0
+  },
+  {
+  "title": "Cumin seeds",
+  "description": "Enhance the flavor of your dishes with our premium Whole Cumin Seeds (Jeera), sourced from the finest farms. Known for their warm, earthy aroma and slightly nutty taste, cumin seeds are a staple in Indian, Middle Eastern, and Latin cuisines. Perfect for tempering, dry roasting, or grinding into spice blends, they add depth and richness to every recipe.",
+  "mainImg": "https://images.unsplash.com/photo-1701189975842-591ebd1e26a2?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Y3VtaW4lMjBzZWVkc3xlbnwwfHwwfHx8Mg%3D%3D",
+  "carousel": [
+    "https://images.unsplash.com/photo-1601723897386-e5df0c749fb7?q=80&w=1162&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "https://images.unsplash.com/photo-1701189975842-591ebd1e26a2?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Y3VtaW4lMjBzZWVkc3xlbnwwfHwwfHx8Mg%3D%3D"
+  ],
+  "sizes": [],
+  "category": "Groceries",
+  "price": 10,
+  "discount": 2,
+  "__v": 0
+  },
+  {
+  "title": "Lays",
+  "description": "Lays Classic Salted Potato Chips are the perfect snack for every occasion. Made from the finest quality potatoes and seasoned with just the right amount of salt, these chips offer a light, crispy texture and irresistible flavor. Whether you're relaxing at home, hosting a party, or on the go, Lays provides the perfect crunchy companion to satisfy your cravings. Free from artificial colors and preservatives, it's a snack you can feel good about enjoying",
+  "mainImg": "https://images.unsplash.com/photo-1614242239788-3282f136fe10?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8bGF5c3xlbnwwfHwwfHx8Mg%3D%3D",
+  "carousel": [
+    "https://images.unsplash.com/photo-1699666397768-0126340e880a?q=80&w=688&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "https://images.unsplash.com/photo-1614242239788-3282f136fe10?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8bGF5c3xlbnwwfHwwfHx8Mg%3D%3D"
+  ],
+  "sizes": [],
+  "category": "Groceries",
+  "price": 20,
+  "discount": 2,
+  "__v": 0
+  },
+  {
+  "title": "Popcorn",
+  "description": "Rich and buttery flavorLight, airy, and perfectly popped Made from premium corn kernels Great for movie nights and snacking No artificial preservatives or colors Naturally gluten-free and vegetarian-friendly",
+  "mainImg": "https://images.unsplash.com/photo-1691480213129-106b2c7d1ee8?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8cG9wY29ybnxlbnwwfHwwfHx8Mg%3D%3D",
+  "carousel": [
+    "https://images.unsplash.com/photo-1707063017149-a3cd268776c4?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fHBvcGNvcm58ZW58MHx8MHx8fDI%3D",
+    "https://images.unsplash.com/photo-1614242239788-3282f136fe10?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8bGF5c3xlbnwwfHwwfHx8Mg%3D%3D"
+  ],
+  "sizes": [],
+  "category": "Groceries",
+  "price": 30,
+  "discount": 2,
+  "__v": 0
+  },
+  {
+  "title": "Dairy Milk(Roast Almond)",
+  "description": "",
+  "mainImg": "https://images.unsplash.com/photo-1750085036916-e8d0a69252a9?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8ZGFpcnklMjBtaWxrJTIwY2hvY29sYXRlfGVufDB8fDB8fHwy",
+  "carousel": [
+    "https://images.unsplash.com/photo-1750085036916-e8d0a69252a9?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8ZGFpcnklMjBtaWxrJTIwY2hvY29sYXRlfGVufDB8fDB8fHwy",
+    "https://images.unsplash.com/photo-1750085036916-e8d0a69252a9?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8ZGFpcnklMjBtaWxrJTIwY2hvY29sYXRlfGVufDB8fDB8fHwy"
+  ],
+  "sizes": [],
+  "category": "Groceries",
+  "price": 30,
+  "discount": 2,
+  "__v": 0
+  },
+  {
+  "title": "Thumbsup",
+  "description": "Thums Up is India’s iconic cola drink, known for its bold, strong taste and intense fizz. With its signature thunderous flavor and punchy kick, Thums Up delivers a uniquely refreshing experience that energizes and excites. Whether you're enjoying it chilled on a hot day or pairing it with your favorite meal, Thums Up brings an unbeatable spark to every moment.",
+  "mainImg": "https://images.unsplash.com/photo-1642660594759-4f1b55e08215?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8dGh1bXN1cCUyMGRyaW5rfGVufDB8fDB8fHwy",
+  "carousel": [
+    "https://images.unsplash.com/photo-1563422574582-ae18e502e0ad?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8dGh1bXN1cCUyMGRyaW5rfGVufDB8fDB8fHwy",
+    "https://images.unsplash.com/photo-1563422574582-ae18e502e0ad?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8dGh1bXN1cCUyMGRyaW5rfGVufDB8fDB8fHwy"
+  ],
+  "sizes": [],
+  "category": "Groceries",
+  "price": 30,
+  "discount": 2,
+  "__v": 0
+  },
+  {
+  "title": "Sprite",
+  "description": "Sprite Up is India’s iconic cola drink, known for its bold, strong taste and intense fizz. With its signature thunderous flavor and punchy kick, Thums Up delivers a uniquely refreshing experience that energizes and excites. Whether you're enjoying it chilled on a hot day or pairing it with your favorite meal, Thums Up brings an unbeatable spark to every moment.",
+  "mainImg": "https://images.unsplash.com/photo-1680404005217-a441afdefe83?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8c3ByaXRlfGVufDB8fDB8fHwy",
+  "carousel": [
+    "https://images.unsplash.com/photo-1690988109041-458628590a9e?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8c3ByaXRlfGVufDB8fDB8fHwy",
+    "https://images.unsplash.com/photo-1680404005217-a441afdefe83?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8c3ByaXRlfGVufDB8fDB8fHwy"
+  ],
+  "sizes": [],
+  "category": "Groceries",
+  "price": 30,
+  "discount": 2,
+  "__v": 0
+  },
+  {
+  "title": "Coco Cola",
+  "description": "coca cola Up is India’s iconic cola drink, known for its bold, strong taste and intense fizz. With its signature thunderous flavor and punchy kick, Thums Up delivers a uniquely refreshing experience that energizes and excites. Whether you're enjoying it chilled on a hot day or pairing it with your favorite meal, Thums Up brings an unbeatable spark to every moment.",
+  "mainImg": "https://images.unsplash.com/photo-1554866585-cd94860890b7?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Y29rZXxlbnwwfHwwfHx8Mg%3D%3D",
+  "carousel": [
+    "https://images.unsplash.com/photo-1592892111425-15e04305f961?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8Y29rZXxlbnwwfHwwfHx8Mg%3D%3D",
+    "https://images.unsplash.com/photo-1554866585-cd94860890b7?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Y29rZXxlbnwwfHwwfHx8Mg%3D%3D"
+  ],
+  "sizes": [],
+  "category": "Groceries",
+  "price": 30,
+  "discount": 2,
+  "__v": 0
+  },
+  {
+  "title": "Mountain Dew",
+  "description": "Mountain Dew is a bold, energizing soft drink with a refreshing blast of citrus flavor and intense fizz. Known for its vibrant taste and adventurous spirit, Mountain Dew is the perfect companion for thrill-seekers and those who love to live life on the edge. Whether you're gaming, chilling with friends, or just need a quick refresh, Mountain Dew delivers an electrifying experience in every sip.",
+  "mainImg": "https://images.unsplash.com/photo-1632161927166-0aea13d8f7e6?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bW91bnRhaW4lMjBkZXd8ZW58MHx8MHx8fDI%3D",
+  "carousel": [
+    "https://images.unsplash.com/photo-1638377677234-41483f204871?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8bW91bnRhaW4lMjBkZXd8ZW58MHx8MHx8fDI%3D",
+    "https://images.unsplash.com/photo-1632161927166-0aea13d8f7e6?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bW91bnRhaW4lMjBkZXd8ZW58MHx8MHx8fDI%3D"
+  ],
+  "sizes": [],
+  "category": "Groceries",
+  "price": 30,
+  "discount": 10,
+  "__v": 0
+  },
+  {
+  "title": "Cauliflower",
+  "description": "Fresh Cauliflower is a versatile and nutritious vegetable, known for its crisp texture and mild flavor. Packed with vitamins, minerals, and fiber, it's an excellent choice for healthy meals. Whether you're using it in curries, stir-fries, soups, salads, or even low-carb rice and pizza bases, cauliflower adapts perfectly to a wide range of recipes. Hand-picked and carefully cleaned, our cauliflower is delivered fresh to your doorstep..",
+  "mainImg": "https://images.unsplash.com/photo-1613743983303-b3e89f8a2b80?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Y2F1bGlmbG93ZXJ8ZW58MHx8MHx8fDI%3D",
+  "carousel": [
+    "https://images.unsplash.com/photo-1584615467033-75627d04dffe?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8Y2F1bGlmbG93ZXJ8ZW58MHx8MHx8fDI%3D",
+    "https://images.unsplash.com/photo-1613743983303-b3e89f8a2b80?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Y2F1bGlmbG93ZXJ8ZW58MHx8MHx8fDI%3D"
+  ],
+  "sizes": [],
+  "category": "Groceries",
+  "price": 12,
+  "discount": 1,
+  "__v": 0
+  },
+  {
+  "title": "Guava",
+  "description": "Enjoy the tropical taste of Fresh Guava – a juicy, fragrant fruit packed with natural sweetness and a hint of tang. Rich in Vitamin C, fiber, and antioxidants, guava is not only delicious but also a powerful boost for your immunity and digestion. With its soft, grainy texture and refreshing flavor, guava is perfect for eating raw, juicing, or adding to salads and smoothies. Sourced directly from farms, our guavas are hand-picked and delivered fresh for maximum taste and nutrition.",
+  "mainImg": "https://images.unsplash.com/photo-1689996647099-a7a0b67fd2f6?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8Z3VhdmF8ZW58MHx8MHx8fDI%3D",
+  "carousel": [
+    "https://images.unsplash.com/photo-1536511132770-e5058c7e8c46?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Z3VhdmF8ZW58MHx8MHx8fDI%3D",
+    "https://images.unsplash.com/photo-1689996647099-a7a0b67fd2f6?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8Z3VhdmF8ZW58MHx8MHx8fDI%3D"
+  ],
+  "sizes": [],
+  "category": "Groceries",
+  "price": 25,
+  "discount": 1,
+  "__v": 0
+  },
+  {
+  "title": "Cosco Premier Football  Size 5 (Standard Match Ball)",
+  "description": "Size 5  Standard match size for ages 12+Durable synthetic leather coverHand-stitched for superior grip and shapeSuitable for all weather and ground conditionsIdeal for training, school, or recreational matches",
+  "mainImg": "https://images.unsplash.com/photo-1486286701208-1d58e9338013?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "carousel": [
+    "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Zm9vdGJhbGx8ZW58MHx8MHx8fDI%3D",
+    "https://images.unsplash.com/photo-1486286701208-1d58e9338013?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  ],
+  "sizes": [],
+  "category": "Sports-Equipment",
+  "price": 899,
+  "discount": 5,
+  "__v": 0
+  },
+  {
+  "title": "Nivia Spot Volleyball ",
+  "description": "Standard for training and recreational useDurable synthetic leather cover for long-lasting performanceMachine-stitched for better shape retention Suitable for indoor and outdoor courts Ideal for schools, coaching, and casual play",
+  "mainImg": "https://images.unsplash.com/photo-1592656094267-764a45160876?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8dm9sbGV5YmFsbHxlbnwwfHwwfHx8Mg%3D%3D",
+  "carousel": [
+    "https://images.unsplash.com/photo-1588492069485-d05b56b2831d?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "https://images.unsplash.com/photo-1592656094267-764a45160876?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8dm9sbGV5YmFsbHxlbnwwfHwwfHx8Mg%3D%3D"
+  ],
+  "sizes": [],
+  "category": "Sports-Equipment",
+  "price": 799,
+  "discount": 3,
+  "__v": 0
+  },
+  {
+  "title": "Cosco Hi-Grip Basketball  ",
+  "description": "Durable rubber cover with excellent grip Deep channels for better handling and controlSuitable for indoor and outdoor surfacesIdeal for training, school, or recreational games",
+  "mainImg": "https://images.unsplash.com/photo-1574623452334-1e0ac2b3ccb4?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8YmFza2V0YmFsbHxlbnwwfHwwfHx8Mg%3D%3D",
+  "carousel": [
+    "https://images.unsplash.com/photo-1519861531473-9200262188bf?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8YmFza2V0YmFsbHxlbnwwfHwwfHx8Mg%3D%3D",
+    "https://images.unsplash.com/photo-1574623452334-1e0ac2b3ccb4?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8YmFza2V0YmFsbHxlbnwwfHwwfHx8Mg%3D%3D"
+  ],
+  "sizes": [],
+  "category": "Sports-Equipment",
+  "price": 1100,
+  "discount": 5,
+  "__v": 0
+  },
+  {
+  "title": "Cosco Max Power Tennis Racket",
+  "description": "Lightweight and easy to handleDurable aluminum frameComfortable grip with strong tension stringsComes with a cover for easy storage and transport Ideal for beginners and intermediate players",
+  "mainImg": "https://images.unsplash.com/photo-1542144582-1ba00456b5e3?q=80&w=778&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "carousel": [
+    "https://images.unsplash.com/photo-1622163642998-1ea32b0bbc67?q=80&w=735&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "https://images.unsplash.com/photo-1542144582-1ba00456b5e3?q=80&w=778&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  ],
+  "sizes": [],
+  "category": "Sports-Equipment",
+  "price": 2500,
+  "discount": 5,
+  "__v": 0
+  },
+  {
+  "title": "Nivia Championship Tennis Balls ",
+  "description": "Nivia Championship Tennis Balls are designed for excellent bounce, durability, and all-round performance. Ideal for training, recreational play, or friendly matches, these pressurized balls are made with premium felt for consistent spin and visibility. Whether on clay, grass, or hard courts, these balls provide smooth play and great control Highlights:",
+  "mainImg": "https://images.unsplash.com/photo-1558365849-6ebd8b0454b2?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fHRlbm5pc3xlbnwwfHwwfHx8Mg%3D%3D",
+  "carousel": [
+    "https://images.unsplash.com/photo-1542144582-1ba00456b5e3?q=80&w=778&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "https://images.unsplash.com/photo-1558365849-6ebd8b0454b2?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fHRlbm5pc3xlbnwwfHwwfHx8Mg%3D%3D"
+  ],
+  "sizes": [],
+  "category": "Sports-Equipment",
+  "price": 250,
+  "discount": 2,
+  "__v": 0
+  },
+  {
+  "title": "Cosco Practice Baseball Standard Size (Leather Finish)",
+  "description": "Perfect your pitch or batting skills with the Cosco Practice Baseball – designed for durability, balance, and consistent flight. Made with a tough synthetic or leather-like cover and a solid core, this baseball is ideal for beginners, training sessions, or casual play. The hand-stitched seams offer a realistic feel, making it a great choice for schools, clubs, and recreational players.",
+  "mainImg": "https://images.unsplash.com/photo-1582650448629-3c854f356544?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8YmFzZWJhbGx8ZW58MHx8MHx8fDI%3D",
+  "carousel": [
+    "https://images.unsplash.com/photo-1554591203-d6433caa8495?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8YmFzZWJhbGx8ZW58MHx8MHx8fDI%3D",
+    "https://images.unsplash.com/photo-1582650448629-3c854f356544?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8YmFzZWJhbGx8ZW58MHx8MHx8fDI%3D"
+  ],
+  "sizes": [],
+  "category": "Sports-Equipment",
+  "price": 350,
+  "discount": 2,
+  "__v": 0
+  },
+  {
+  "title": " Cosco Power Play Baseball Bat ",
+  "description": "Step up to the plate with the Cosco Power Play Baseball Bat, crafted from high-quality wood for strength, balance, and a classic feel. Designed for casual matches, training, and school-level games, this full-size bat provides solid grip and swing control for beginners and amateur players. Its smooth finish and sturdy build make it ideal for developing proper technique and hitting confidence.",
+  "mainImg": "https://images.unsplash.com/photo-1652497212456-cdf9a390fd2a?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8YmFzZWJhbGwlMjBiYXR8ZW58MHx8MHx8fDI%3D",
+  "carousel": [
+    "https://images.unsplash.com/photo-1652497384980-03d7246e5e00?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8YmFzZWJhbGwlMjBiYXR8ZW58MHx8MHx8fDI%3D",
+    "https://images.unsplash.com/photo-1652497212456-cdf9a390fd2a?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8YmFzZWJhbGwlMjBiYXR8ZW58MHx8MHx8fDI%3D"
+  ],
+  "sizes": [],
+  "category": "Sports-Equipment",
+  "price": 2100,
+  "discount": 3,
+  "__v": 0
+  },
+  {
+  "title": "Callaway Warbird Golf Ball",
+  "description": "Engineered for maximum distance and high-speed performance, Callaway Warbird Golf Balls are ideal for golfers who want powerful shots and consistent flight. Featuring a high-energy core and durable ionomer cover, these 2-piece golf balls offer excellent feel off the tee and soft control around the green. Perfect for both beginners and mid-level players looking for all-around performance..",
+  "mainImg": "https://images.unsplash.com/photo-1587174486073-ae5e5cff23aa?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "carousel": [
+    "https://images.unsplash.com/photo-1591491698714-9631092f6c4f?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Z29sZnxlbnwwfHwwfHx8Mg%3D%3D",
+    "https://images.unsplash.com/photo-1587174486073-ae5e5cff23aa?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  ],
+  "sizes": [],
+  "category": "Sports-Equipment",
+  "price": 450,
+  "discount": 3,
+  "__v": 0
+  },
+  {
+  "title": "onex GR 303 Badminton Racket  Full Graphite(pack-2)",
+  "description": "The Yonex GR 303 is a popular choice for beginners and intermediate players looking for a lightweight yet powerful badminton racket. Built with a durable aluminum frame and graphite shaft, it offers excellent control, balance, and swift handling. Whether you’re smashing, serving, or rallying, this racket delivers reliable performance on both indoor and outdoor courts. Comes with a full cover for easy portability and protection.",
+  "mainImg": "https://images.unsplash.com/photo-1716155249759-b5f068f74e63?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmFkbWludG9uJTIwcmFja2V0fGVufDB8fDB8fHwy",
+  "carousel": [
+    "https://images.unsplash.com/photo-1564227050211-b6061acd4158?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fGJhZG1pbnRvbiUyMHJhY2tldHxlbnwwfHwwfHx8Mg%3D%3D",
+    "https://images.unsplash.com/photo-1716155249759-b5f068f74e63?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmFkbWludG9uJTIwcmFja2V0fGVufDB8fDB8fHwy"
+  ],
+  "sizes": [],
+  "category": "Sports-Equipment",
+  "price": 2100,
+  "discount": 3,
+  "__v": 0
+  },
+  {
+  "title": "Classic Mens Slim Fit Blazer Formal & Semi-Formal Wear",
+  "description": "Make a lasting impression with this Classic Men’s Slim Fit Blazer, tailored to perfection for a modern and refined look. Crafted from a premium blend of fabrics, this blazer offers a structured fit, smooth finish, and all-day comfort. Whether you're heading to a business meeting, wedding, or evening event, this versatile piece pairs effortlessly with both formal trousers and smart jean.",
+  "mainImg": "https://images.unsplash.com/photo-1592878904946-b3cd8ae243d0?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmxhemVyc3xlbnwwfHwwfHx8Mg%3D%3D",
+  "carousel": [
+    "https://images.unsplash.com/photo-1592878904946-b3cd8ae243d0?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmxhemVyc3xlbnwwfHwwfHx8Mg%3D%3D",
+    "https://images.unsplash.com/photo-1592878904946-b3cd8ae243d0?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmxhemVyc3xlbnwwfHwwfHx8Mg%3D%3D"
+  ],
+  "sizes": [],
+  "category": "Fashion",
+  "gender": "Men",
+  "price": 1800,
+  "discount": 3,
+  "__v": 0
+  },
+  {
+  "title": "Sun glasses(pack-12)",
+  "description": "Elevate your everyday style with this Elegant Faux Leather Handbag – a perfect blend of fashion and functionality. Crafted from premium-quality faux leather, this bag features a sleek design with polished metal accents, sturdy handles, and ample space to carry all your essentials. With multiple compartments, it’s ideal for work, shopping, travel, or casual outings..",
+  "mainImg": "https://images.unsplash.com/photo-1608539733292-190446b22b83?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8c3VuZ2xhc3Nlc3xlbnwwfHwwfHx8Mg%3D%3D",
+  "carousel": [
+    "https://images.unsplash.com/photo-1608539733292-190446b22b83?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8c3VuZ2xhc3Nlc3xlbnwwfHwwfHx8Mg%3D%3D",
+    "https://images.unsplash.com/photo-1608539733292-190446b22b83?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8c3VuZ2xhc3Nlc3xlbnwwfHwwfHx8Mg%3D%3D"
+  ],
+  "sizes": [],
+  "category": "Fashion",
+  "gender": "Unisex",
+  "price": 1800,
+  "discount": 3,
+  "__v": 0
+  },
+  {
+  "title": "Elegant Faux Leather Handbag – Stylish & Spacious",
+  "description": "Elevate your everyday style with this Elegant Faux Leather Handbag – a perfect blend of fashion and functionality. Crafted from premium-quality faux leather, this bag features a sleek design with polished metal accents, sturdy handles, and ample space to carry all your essentials. With multiple compartments, it’s ideal for work, shopping, travel, or casual outings.",
+  "mainImg": "https://images.unsplash.com/photo-1682745230951-8a5aa9a474a0?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fGhhbmRiYWdzfGVufDB8fDB8fHwy",
+  "carousel": [
+    "https://images.unsplash.com/photo-1682745230951-8a5aa9a474a0?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fGhhbmRiYWdzfGVufDB8fDB8fHwy",
+    "https://images.unsplash.com/photo-1682745230951-8a5aa9a474a0?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fGhhbmRiYWdzfGVufDB8fDB8fHwy"
+  ],
+  "sizes": [],
+  "category": "Fashion",
+  "gender": "Women",
+  "price": 1200,
+  "discount": 3,
+  "__v": 0
+  },
+  {
+  "title": "Classic Blue Denim Jacket",
+  "description": "Setup up your casual fashion game with our Classic Blue Denim Jacket. Crafted from durable cotton denim, this timeless piece features buttoned flap pockets, metal button closures, and a tailored fit that flatters all body types. Perfect for layering over tees or hoodies, it's a wardrobe essential for every season 100% Cotton denim Faded wash for a vintage look Front button closure",
+  "mainImg": "https://images.unsplash.com/photo-1618393649689-c997c7455ef5?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "carousel": [
+    "https://images.unsplash.com/photo-1628273080778-b2402a2dcf88?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8ZGVuaW0lMjBqYWNrZXRzfGVufDB8fDB8fHwy",
+    "https://images.unsplash.com/photo-1618393649689-c997c7455ef5?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  ],
+  "sizes": [
+    "S",
+    "M",
+    "L",
+    "XL"
+  ],
+  "category": "Fashion",
+  "gender": "Unisex",
+  "price": 2500,
+  "discount": 20,
+  "__v": 0
+  },
+  {
+  "title": "Light greem Hoodie",
+  "description": "Stay warm and stylish with our Essential Fleece Hoodie — the perfect blend of comfort, warmth, and street-style. Made from premium brushed fleece, it features an adjustable drawstring hood, spacious kangaroo pocket, and ribbed cuffs and hem. Whether you're heading to the gym, chilling at home, or stepping out, this hoodie has you covered in all seasons.",
+  "mainImg": "https://images.unsplash.com/photo-1618333845076-890b5baf8ffe?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8aG9vZGllc3xlbnwwfHwwfHx8Mg%3D%3D",
+  "carousel": [
+    "https://images.unsplash.com/photo-1618333845076-890b5baf8ffe?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8aG9vZGllc3xlbnwwfHwwfHx8Mg%3D%3D",
+    "https://images.unsplash.com/photo-1618333845076-890b5baf8ffe?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8aG9vZGllc3xlbnwwfHwwfHx8Mg%3D%3D"
+  ],
+  "sizes": [
+    "S",
+    "M",
+    "L",
+    "XL"
+  ],
+  "category": "Fashion",
+  "gender": "Unisex",
+  "price": 1200,
+  "discount": 10,
+  "__v": 0
+  },
+  {
+  "title": "Bottomup shirts(pack-3)",
+  "description": "he bottom hem of our t-shirts is double-stitched for enhanced durability and a clean finish. Designed with a straight cut, it offers a relaxed fit that doesn't ride up, ensuring ease of movement. Whether tucked in or worn loose, the hem sits comfortably at the hips, giving your look a balanced and stylish silhouette.",
+  "mainImg": "https://images.unsplash.com/photo-1716951735063-3d60c2c288e4?q=80&w=898&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "carousel": [
+    "https://images.unsplash.com/photo-1716951735063-3d60c2c288e4?q=80&w=898&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "https://images.unsplash.com/photo-1716951735063-3d60c2c288e4?q=80&w=898&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  ],
+  "sizes": [
+    "S",
+    "M",
+    "L",
+    "XL"
+  ],
+  "category": "Fashion",
+  "gender": "Unisex",
+  "price": 800,
+  "discount": 10,
+  "__v": 0
+  },
+  {
+  "title": "Bottomup shirts(pack-3)",
+  "description": "Keep it classic and cool with this sleek black cap, designed for all-day comfort and timeless style. Made from high-quality cotton twill, it features a curved brim for sun protection, embroidered eyelets for breathability, and an adjustable strap at the back for a custom fit. Whether you're heading out for a run or elevating your casual outfit, this versatile black cap is the perfect finishing touch.",
+  "mainImg": "https://images.unsplash.com/photo-1589831377283-33cb1cc6bd5d?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "carousel": [
+    "https://images.unsplash.com/photo-1589831377283-33cb1cc6bd5d?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "https://images.unsplash.com/photo-1589831377283-33cb1cc6bd5d?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  ],
+  "sizes": [],
+  "category": "Fashion",
+  "gender": "Unisex",
+  "price": 200,
+  "discount": 10,
+  "__v": 0
+  },
+  {
+  "title": "Polo shirts (pack-2)",
+  "description": "Soft, breathable cotton pique for all-day comfort Classic ribbed collar with two-button placketTailored fit — not too loose, not too tightAvailable in multiple colors for any occasionEasy to pair with jeans, chinos, or shorts.",
+  "mainImg": "https://images.unsplash.com/photo-1714143852211-62d5a635439f?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8cG9sbyUyMHNoaXJ0c3xlbnwwfHwwfHx8MA%3D%3D",
+  "carousel": [
+    "https://images.unsplash.com/photo-1714143852211-62d5a635439f?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8cG9sbyUyMHNoaXJ0c3xlbnwwfHwwfHx8MA%3D%3D",
+    "https://images.unsplash.com/photo-1714143852211-62d5a635439f?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8cG9sbyUyMHNoaXJ0c3xlbnwwfHwwfHx8MA%3D%3D"
+  ],
+  "sizes": [],
+  "category": "Fashion",
+  "gender": "Men",
+  "price": 500,
+  "discount": 10,
+  "__v": 0
+  },
+  {
+  "title": " 3-Piece Suit",
+  "description": "Includes: Blazer, waistcoat, and trousers Fabric: Premium poly-viscose blend (or wool blend depending on the version)Fit: Slim or regular fit options available Blazer: Notch lapel, single-breasted, two-button closureWaistcoat: Five-button front, adjustable back beltTrousers: Flat-front with belt loops and zip flyFully lined for comfort.",
+  "mainImg": "https://images.unsplash.com/photo-1592878995758-02b32ddabdd3?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzB8fDMlMjBwaWVjZSUyMHN1aXRzfGVufDB8fDB8fHww",
+  "carousel": [
+    "https://images.unsplash.com/photo-1594938350684-4c251b5030d1?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzF8fDMlMjBwaWVjZSUyMHN1aXRzfGVufDB8fDB8fHww",
+    "https://images.unsplash.com/photo-1592878995758-02b32ddabdd3?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzB8fDMlMjBwaWVjZSUyMHN1aXRzfGVufDB8fDB8fHww"
+  ],
+  "sizes": [],
+  "category": "Fashion",
+  "gender": "Men",
+  "price": 4500,
+  "discount": 25,
+  "__v": 0
+  },
+  {
+  "title": "Adidas shoes",
+  "description": "Step into comfort and performance with the Adidas Lite Racer 3.0 — designed for everyday wear and active lifestyles. These lightweight running-inspired shoes feature a breathable mesh upper, responsive cushioning, and the iconic 3-Stripes branding. Whether you're hitting the gym or walking the city, these shoes provide the perfect blend of style and function.",
+  "mainImg": "https://images.unsplash.com/flagged/photo-1556637640-2c80d3201be8?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fGFkaWRhcyUyMHNob2VzfGVufDB8fDB8fHwy",
+  "carousel": [
+    "https://images.unsplash.com/flagged/photo-1556637640-2c80d3201be8?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fGFkaWRhcyUyMHNob2VzfGVufDB8fDB8fHwy",
+    "https://images.unsplash.com/flagged/photo-1556637640-2c80d3201be8?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fGFkaWRhcyUyMHNob2VzfGVufDB8fDB8fHwy"
+  ],
+  "sizes": [
+    32,
+    34,
+    36,
+    38,
+    40,
+    42
+  ],
+  "category": "Fashion",
+  "gender": "Men",
+  "price": 4500,
+  "discount": 35,
+  "__v": 0
+  },
+  {
+  "title": "Air shoes",
+  "description": "Cushioning: Lightweight Air unit in heel or full-length sole for superior shock absorption Upper: Breathable mesh or synthetic leather foa snug fit and durabilitySole: Rubber outsole with flex grooves for grip and natural movementDesign: Sporty silhouette with bold branding and vibrant colorwaysIdeal For: Running, training, casual wear, lifestyle use",
+  "mainImg": "https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "carousel": [
+    "https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  ],
+  "sizes": [
+    32,
+    34,
+    36,
+    38,
+    40,
+    42
+  ],
+  "category": "Fashion",
+  "gender": "Women",
+  "price": 4500,
+  "discount": 25,
+  "__v": 0
+  },
+  {
+  "title": "Bangles",
+  "description": "Elevate your traditional and contemporary style with our exquisite bangles, a timeless accessory symbolizing grace and culture. Crafted with precision, these bangles blend elegance and tradition, making them the perfect adornment for festive occasions, wedding",
+  "mainImg": "https://images.unsplash.com/photo-1601482438629-346a273776af?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmFuZ2xlc3xlbnwwfHwwfHx8Mg%3D%3D",
+  "carousel": [
+    "https://images.unsplash.com/photo-1601482438629-346a273776af?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmFuZ2xlc3xlbnwwfHwwfHx8Mg%3D%3D",
+    "https://images.unsplash.com/photo-1601482438629-346a273776af?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmFuZ2xlc3xlbnwwfHwwfHx8Mg%3D%3D"
+  ],
+  "sizes": [
+    2.2,
+    2.4,
+    2.6,
+    2.8
+  ],
+  "category": "Fashion",
+  "gender": "Women",
+  "price": 250,
+  "discount": 2,
+  "__v": 0
+  },
+  {
+  "title": "Samsung S21 5G",
+  "description": "Display: 6.2″ Dynamic AMOLED 2X,processor: Exynos 2100 (India/EU model) or Snapdragon 888 (US/China) RAM/Storage: 8 GB / 128 or 256 GB (no micro‑SD) Cameras: Triple rear — 12 MP main + 64 MP telephoto (3× optical) + 12 MP ultrawide; 10 MP fron",
+  "mainImg": "https://images.unsplash.com/photo-1610945264803-c22b62d2a7b3?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "carousel": [
+    "https://images.unsplash.com/photo-1610945264803-c22b62d2a7b3?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "https://images.unsplash.com/photo-1610945264803-c22b62d2a7b3?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  ],
+  "sizes": [],
+  "category": "mobiles",
+  "price": 25000,
+  "discount": 5,
+  "__v": 0
+  },
+  {
+  "title": "Vivo X Flip",
+  "description": "Powered by the Snapdragon 8+ Gen 1 processor and paired with 12GB RAM, the X Flip ensures seamless multitasking and powerful performance. Capture stunning photos with the 50MP main camera with OIS and a 12MP ultra-wide sensor, while the 32MP front camera handles high-quality selfies effortlessly.With a robust 4400mAh battery, 44W fast charging, and a sleek, lightweight design, the Vivo X Flip is built for both performance and portability",
+  "mainImg": "https://images.unsplash.com/photo-1687168593635-370120784edc?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8dml2b3xlbnwwfHwwfHx8Mg%3D%3D",
+  "carousel": [
+    "https://images.unsplash.com/photo-1687168593635-370120784edc?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8dml2b3xlbnwwfHwwfHx8Mg%3D%3D",
+    "https://images.unsplash.com/photo-1687168593635-370120784edc?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8dml2b3xlbnwwfHwwfHx8Mg%3D%3D"
+  ],
+  "sizes": [],
+  "category": "mobiles",
+  "price": 55000,
+  "discount": 5,
+  "__v": 0
+  },
+  {
+  "title": "Oppo A17",
+  "description": "ual Rear Cameras: 50MP main + 2MP depth/macro AI Scene Enhancement: Auto-optimizes lighting, color, and sharpness Portrait Mode: Background blur with natural skin tone processing Night Mode: Enhanced low-light clarityDesign: Slim profile, premium finish, 3D curved edges (varies by model)Software: ColorOS with Smart AI Camera algorithms",
+  "mainImg": "https://images.unsplash.com/photo-1662371697742-b5b612c62629?q=80&w=765&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "carousel": [
+    "https://images.unsplash.com/photo-1662371697742-b5b612c62629?q=80&w=765&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "https://images.unsplash.com/photo-1662371697742-b5b612c62629?q=80&w=765&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  ],
+  "sizes": [],
+  "category": "mobiles",
+  "price": 35000,
+  "discount": 5,
+  "__v": 0
+  },
+  {
+  "title": "Pocco F2 Pro",
+  "description": "POCO F2 Pro is a powerful smartphone known for its flagship performance at a mid-range price. It features a 6.67-inch AMOLED display with no notches, thanks to its pop-up 20MP selfie camera. Powered by the Snapdragon 865 processor, it offers smooth multitasking and gaming.On the back, it has a quad-camera setup with a 64MP main camera, 13MP ultra-wide, 5MP macro, and 2MP depth sensor. The 4700mAh battery supports 30W fast charging, and the phone includes useful features like 5G, a headphone jack, infrared blaster, and an in-display fingerprint sensor.",
+  "mainImg": "https://images.unsplash.com/photo-1590912010420-1ecaa6325a4b?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8cG9jb3xlbnwwfHwwfHx8Mg%3D%3D",
+  "carousel": [
+    "https://images.unsplash.com/photo-1590912010420-1ecaa6325a4b?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8cG9jb3xlbnwwfHwwfHx8Mg%3D%3D",
+    "https://images.unsplash.com/photo-1590912010420-1ecaa6325a4b?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8cG9jb3xlbnwwfHwwfHx8Mg%3D%3D"
+  ],
+  "sizes": [],
+  "category": "mobiles",
+  "price": 19000,
+  "discount": 5,
+  "__v": 0
+  },
+  {
+  "title": "Infinix Zero30(yellow)",
+  "description": "Quad rear cameras: 48 MP (main) + 8 MP + 2 MP + AI lensDual front cameras: 16 MP + 8 MPHelio G90T chipset, 6.85″ FHD+ display, 4500 mAh battery Infinix S5",
+  "mainImg": "https://images.unsplash.com/photo-1690555405171-b5aeda53b26f?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fGluZmluaXh8ZW58MHx8MHx8fDI%3D",
+  "carousel": [
+    "https://images.unsplash.com/photo-1690555405172-5a01affadab3?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8aW5maW5peHxlbnwwfHwwfHx8Mg%3D%3D",
+    "https://images.unsplash.com/photo-1690555405171-b5aeda53b26f?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fGluZmluaXh8ZW58MHx8MHx8fDI%3D"
+  ],
+  "sizes": [],
+  "category": "mobiles",
+  "price": 18000,
+  "discount": 5,
+  "__v": 0
+  },
+  {
+  "title": "Infinix zero30(Green)",
+  "description": "Quad rear cameras: 48 MP (main) + 8 MP + 2 MP + AI lensDual front cameras: 16 MP + 8 MPHelio G90T chipset, 6.85″ FHD+ display, 4500 mAh battery Infinix S5",
+  "mainImg": "https://images.unsplash.com/photo-1698244441525-c3e041350f7e?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fGluZmluaXh8ZW58MHx8MHx8fDI%3D",
+  "carousel": [
+    "https://images.unsplash.com/photo-1696877983046-7429e0a6a8f5?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fGluZmluaXh8ZW58MHx8MHx8fDI%3D",
+    "https://images.unsplash.com/photo-1696877983046-7429e0a6a8f5?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fGluZmluaXh8ZW58MHx8MHx8fDI%3D"
+  ],
+  "sizes": [],
+  "category": "mobiles",
+  "price": 18000,
+  "discount": 5,
+  "__v": 0
+  },
+  {
+  "title": "Nothing 2",
+  "description": "Display: 6.7″ LTPO AMOLED, 120 Hz, very bright and fluidChipset: Snapdragon 8+ Gen 1 for flagship-leveperformanceDesign: Transparent back with upgraded Glyph Interface for visual alertsCameras: Dual 50 MP rear cameras, 32 MP frontBattery: 4700 mAh with 45 W fast charging and wireless chargingSoftware: Nothing OS 2.0, cleaner Android experience",
+  "mainImg": "https://images.unsplash.com/photo-1703511203362-e116de8f39bb?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fG5vdGhpbmclMjBwaG9uZXxlbnwwfHwwfHx8Mg%3D%3D",
+  "carousel": [
+    "https://images.unsplash.com/photo-1664700651198-42cf8d382dc3?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8bm90aGluZyUyMHBob25lfGVufDB8fDB8fHwy",
+    "https://images.unsplash.com/photo-1664700651198-42cf8d382dc3?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8bm90aGluZyUyMHBob25lfGVufDB8fDB8fHwy"
+  ],
+  "sizes": [],
+  "category": "mobiles",
+  "price": 28000,
+  "discount": 5,
+  "__v": 0
+  },
+  {
+  "title": "Leather Jackets",
+  "description": "Made from high-quality genuine leatherAsymmetrical zip closure for a classic biker lookMultiple zippered pockets for secure storage Adjustable cuffs and waist for a custom fitInner lining with breathable and insulated fabricAvailable in black, brown, and tan finishes",
+  "mainImg": "https://images.unsplash.com/photo-1700993443948-0691df37d507?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8bGVhdGhlciUyMGphY2tldHMlMjBtZW58ZW58MHx8MHx8fDI%3D",
+  "carousel": [
+    "https://images.unsplash.com/photo-1700993443419-b6f067e734e4?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8bGVhdGhlciUyMGphY2tldHMlMjBtZW58ZW58MHx8MHx8fDI%3D",
+    "https://images.unsplash.com/photo-1700993443419-b6f067e734e4?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8bGVhdGhlciUyMGphY2tldHMlMjBtZW58ZW58MHx8MHx8fDI%3D"
+  ],
+  "sizes": [
+    "S",
+    "M",
+    "L",
+    "XL"
+  ],
+  "category": "Fashion",
+  "gender": "Men",
+  "price": 1500,
+  "discount": 5,
+  "__v": 0
+  },
+  {
+  "title": "Skinny Jeans Blue",
+  "description": "Skinny fit: tapered through thigh and ankleStretch fabric for flexibility and comfort",
+  "mainImg": "https://images.unsplash.com/photo-1714143136372-ddaf8b606da7?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8amVhbnMlMjBtZW58ZW58MHx8MHx8fDI%3DD",
+  "carousel": [
+    "https://images.unsplash.com/photo-1714143136361-386dae5672e2?q=80&w=880&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "https://images.unsplash.com/photo-1714143136372-ddaf8b606da7?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8amVhbnMlMjBtZW58ZW58MHx8MHx8fDI%3D"
+  ],
+  "sizes": [
+    "S",
+    "M",
+    "L",
+    "XL"
+  ],
+  "category": "Fashion",
+  "gender": "Men",
+  "price": 1200,
+  "discount": 5,
+  "__v": 0
+  },
+  {
+  "title": "Pink long Frock",
+  "description": " floor-length design for a graceful silhouettePremium fabrics: chiffon, georgette, satin, or netSleeves: sleeveless",
+  "mainImg": "https://images.unsplash.com/photo-1609741873312-7ce5ae7c56b4?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "carousel": [
+    "https://images.unsplash.com/photo-1609741873312-7ce5ae7c56b4?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "https://images.unsplash.com/photo-1609741873312-7ce5ae7c56b4?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  ],
+  "sizes": [
+    "S",
+    "M",
+    "L",
+    "XL"
+  ],
+  "category": "Fashion",
+  "gender": "Women",
+  "price": 2200,
+  "discount": 5,
+  "__v": 0
+  },
+  {
+  "title": "Jacket",
+  "description": "Durable, weather-resistant fabric construction Full front zip with snap-button storm flap stand collar or hooded option for extra coverageMultiple utility-style pockets (chest, hand, and inner pockets)Adjustable cuffs and waist tabs for a custom fit Soft inner lining for added warmth",
+  "mainImg": "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8amFja2V0c3xlbnwwfHwwfHx8Mg%3D%3D",
+  "carousel": [
+    "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8amFja2V0c3xlbnwwfHwwfHx8Mg%3D%3D",
+    "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8amFja2V0c3xlbnwwfHwwfHx8Mg%3D%3D"
+  ],
+  "sizes": [
+    "S",
+    "M",
+    "L",
+    "XL"
+  ],
+  "category": "Fashion",
+  "gender": "Unisex",
+  "price": 1200,
+  "discount": 5,
+  "__v": 0
+  }
+]
